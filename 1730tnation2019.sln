@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tnation1730ex1e1", "tnation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tnation1730ex1f1", "tnation1730ex1f1\tnation1730ex1f1.csproj", "{CCDC1F7D-2A0C-486B-BE87-0145E9F05119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tnation1730ex1g1", "tnation1730ex1g1\tnation1730ex1g1.csproj", "{D16F47CD-FBED-4769-883F-7073568CCA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tnation1730ex2a1", "tnation1730ex2a1\tnation1730ex2a1.csproj", "{1D282578-A785-49DF-936B-F68751755EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{CCDC1F7D-2A0C-486B-BE87-0145E9F05119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDC1F7D-2A0C-486B-BE87-0145E9F05119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDC1F7D-2A0C-486B-BE87-0145E9F05119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16F47CD-FBED-4769-883F-7073568CCA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16F47CD-FBED-4769-883F-7073568CCA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16F47CD-FBED-4769-883F-7073568CCA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16F47CD-FBED-4769-883F-7073568CCA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D282578-A785-49DF-936B-F68751755EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D282578-A785-49DF-936B-F68751755EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D282578-A785-49DF-936B-F68751755EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D282578-A785-49DF-936B-F68751755EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
